@@ -1,0 +1,26 @@
+{
+  "name": "vercel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fhasghrge/vercel-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fhasghrge/vercel-test/issues"
+  },
+  "homepage": "https://github.com/Fhasghrge/vercel-test#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
